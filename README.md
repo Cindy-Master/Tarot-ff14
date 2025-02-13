@@ -5,4 +5,6 @@
 
 故去除掉其中关于登陆等的api响应 改为本地缓存
 
+另外  ***去tm的次数限制***
+
 **已部署网址: [tarot.ffpvp.top](https://tarot.ffpvp.top/#/index)  请使用手机查看**
