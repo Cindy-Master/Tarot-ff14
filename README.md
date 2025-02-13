@@ -5,9 +5,11 @@
 
 故去除掉其中关于登陆/后端数据库的交互等的api响应 改为本地缓存
 
-另外  ***去tm的次数限制***
+***去tm的次数限制***
 
 **已部署网址: [tarot.ffpvp.top](https://tarot.ffpvp.top/#/index)  请使用手机查看**
+
+**PS:** 官方网站下的api互动https://ff14act.web.sdo.com/api/astrology/getRecordList
 
 
 
@@ -15,5 +17,5 @@
 
 ![image](https://github.com/user-attachments/assets/2c683a98-3b1e-4428-8944-7ab0a99e339a)
 
-https://ff14act.web.sdo.com/api/astrology/getRecordList
-**你最好不记录**
+
+### 你最好不记录
