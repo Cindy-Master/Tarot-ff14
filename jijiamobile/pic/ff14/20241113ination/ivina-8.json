@@ -1,0 +1,109 @@
+{"frames": {
+
+"divination_00096.png":
+{
+	"frame": {"x":0,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00097.png":
+{
+	"frame": {"x":450,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00098.png":
+{
+	"frame": {"x":900,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00099.png":
+{
+	"frame": {"x":1350,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00100.png":
+{
+	"frame": {"x":0,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00101.png":
+{
+	"frame": {"x":450,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00102.png":
+{
+	"frame": {"x":900,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00103.png":
+{
+	"frame": {"x":1350,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00104.png":
+{
+	"frame": {"x":0,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00105.png":
+{
+	"frame": {"x":450,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00106.png":
+{
+	"frame": {"x":900,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00107.png":
+{
+	"frame": {"x":1350,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "ivina-8.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":1875},
+	"scale": "0.46875",
+	"related_multi_packs": [ "ivina-0.json", "ivina-1.json", "ivina-2.json", "ivina-3.json", "ivina-4.json", "ivina-5.json", "ivina-6.json", "ivina-7.json", "ivina-9.json", "ivina-10.json", "ivina-11.json", "ivina-12.json", "ivina-13.json", "ivina-14.json", "ivina-15.json", "ivina-16.json", "ivina-17.json", "ivina-18.json", "ivina-19.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ed155bfe62bdd7840c8e3981cacd6527:90c1a2bb2740cdfa0f15d20ca37d8c3b:29ca837da15241590d02080cced39236$"
+}
+}

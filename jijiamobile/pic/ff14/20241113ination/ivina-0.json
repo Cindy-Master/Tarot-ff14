@@ -1,0 +1,112 @@
+{"frames": {
+
+"divination_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00001.png":
+{
+	"frame": {"x":450,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00002.png":
+{
+	"frame": {"x":900,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00003.png":
+{
+	"frame": {"x":1350,"y":0,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00004.png":
+{
+	"frame": {"x":0,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00005.png":
+{
+	"frame": {"x":450,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00006.png":
+{
+	"frame": {"x":900,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00007.png":
+{
+	"frame": {"x":1350,"y":625,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00008.png":
+{
+	"frame": {"x":0,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00009.png":
+{
+	"frame": {"x":450,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00010.png":
+{
+	"frame": {"x":900,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+},
+"divination_00011.png":
+{
+	"frame": {"x":1350,"y":1250,"w":450,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":625},
+	"sourceSize": {"w":450,"h":625}
+}},
+"animations": {
+	"divination": ["divination_00000.png","divination_00001.png","divination_00002.png","divination_00003.png","divination_00004.png","divination_00005.png","divination_00006.png","divination_00007.png","divination_00008.png","divination_00009.png","divination_00010.png","divination_00011.png","divination_00012.png","divination_00013.png","divination_00014.png","divination_00015.png","divination_00016.png","divination_00017.png","divination_00018.png","divination_00019.png","divination_00020.png","divination_00021.png","divination_00022.png","divination_00023.png","divination_00024.png","divination_00025.png","divination_00026.png","divination_00027.png","divination_00028.png","divination_00029.png","divination_00030.png","divination_00031.png","divination_00032.png","divination_00033.png","divination_00034.png","divination_00035.png","divination_00036.png","divination_00037.png","divination_00038.png","divination_00039.png","divination_00040.png","divination_00041.png","divination_00042.png","divination_00043.png","divination_00044.png","divination_00045.png","divination_00046.png","divination_00047.png","divination_00048.png","divination_00049.png","divination_00050.png","divination_00051.png","divination_00052.png","divination_00053.png","divination_00054.png","divination_00055.png","divination_00056.png","divination_00057.png","divination_00058.png","divination_00059.png","divination_00060.png","divination_00061.png","divination_00062.png","divination_00063.png","divination_00064.png","divination_00065.png","divination_00066.png","divination_00067.png","divination_00068.png","divination_00069.png","divination_00070.png","divination_00071.png","divination_00072.png","divination_00073.png","divination_00074.png","divination_00075.png","divination_00076.png","divination_00077.png","divination_00078.png","divination_00079.png","divination_00080.png","divination_00081.png","divination_00082.png","divination_00083.png","divination_00084.png","divination_00085.png","divination_00086.png","divination_00087.png","divination_00088.png","divination_00089.png","divination_00090.png","divination_00091.png","divination_00092.png","divination_00093.png","divination_00094.png","divination_00095.png","divination_00096.png","divination_00097.png","divination_00098.png","divination_00099.png","divination_00100.png","divination_00101.png","divination_00102.png","divination_00103.png","divination_00104.png","divination_00105.png","divination_00106.png","divination_00107.png","divination_00108.png","divination_00109.png","divination_00110.png","divination_00111.png","divination_00112.png","divination_00113.png","divination_00114.png","divination_00115.png","divination_00116.png","divination_00117.png","divination_00118.png","divination_00119.png","divination_00120.png","divination_00121.png","divination_00122.png","divination_00123.png","divination_00124.png","divination_00125.png","divination_00126.png","divination_00127.png","divination_00128.png","divination_00129.png","divination_00130.png","divination_00131.png","divination_00132.png","divination_00133.png","divination_00134.png","divination_00135.png","divination_00136.png","divination_00137.png","divination_00138.png","divination_00139.png","divination_00140.png","divination_00141.png","divination_00142.png","divination_00143.png","divination_00144.png","divination_00145.png","divination_00146.png","divination_00147.png","divination_00148.png","divination_00149.png","divination_00150.png","divination_00151.png","divination_00152.png","divination_00153.png","divination_00154.png","divination_00155.png","divination_00156.png","divination_00157.png","divination_00158.png","divination_00159.png","divination_00160.png","divination_00161.png","divination_00162.png","divination_00163.png","divination_00164.png","divination_00165.png","divination_00166.png","divination_00167.png","divination_00168.png","divination_00169.png","divination_00170.png","divination_00171.png","divination_00172.png","divination_00173.png","divination_00174.png","divination_00175.png","divination_00176.png","divination_00177.png","divination_00178.png","divination_00179.png","divination_00180.png","divination_00181.png","divination_00182.png","divination_00183.png","divination_00184.png","divination_00185.png","divination_00186.png","divination_00187.png","divination_00188.png","divination_00189.png","divination_00190.png","divination_00191.png","divination_00192.png","divination_00193.png","divination_00194.png","divination_00195.png","divination_00196.png","divination_00197.png","divination_00198.png","divination_00199.png","divination_00200.png","divination_00201.png","divination_00202.png","divination_00203.png","divination_00204.png","divination_00205.png","divination_00206.png","divination_00207.png","divination_00208.png","divination_00209.png","divination_00210.png","divination_00211.png","divination_00212.png","divination_00213.png","divination_00214.png","divination_00215.png","divination_00216.png","divination_00217.png","divination_00218.png","divination_00219.png","divination_00220.png","divination_00221.png","divination_00222.png","divination_00223.png","divination_00224.png","divination_00225.png","divination_00226.png","divination_00227.png","divination_00228.png","divination_00229.png","divination_00230.png","divination_00231.png","divination_00232.png","divination_00233.png","divination_00234.png","divination_00235.png","divination_00236.png","divination_00237.png","divination_00238.png","divination_00239.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "ivina-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1800,"h":1875},
+	"scale": "0.46875",
+	"related_multi_packs": [ "ivina-1.json", "ivina-2.json", "ivina-3.json", "ivina-4.json", "ivina-5.json", "ivina-6.json", "ivina-7.json", "ivina-8.json", "ivina-9.json", "ivina-10.json", "ivina-11.json", "ivina-12.json", "ivina-13.json", "ivina-14.json", "ivina-15.json", "ivina-16.json", "ivina-17.json", "ivina-18.json", "ivina-19.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ed155bfe62bdd7840c8e3981cacd6527:90c1a2bb2740cdfa0f15d20ca37d8c3b:29ca837da15241590d02080cced39236$"
+}
+}
